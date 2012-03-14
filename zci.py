@@ -37,7 +37,7 @@ class Command(object):
             return -1
 
         zshfunc = get_zshcomp(target_package, url)
-        _name = '_' + name
+        _name = '_' + target_package
         path = os.path.join(os.path.expanduser(DEFAULTS['install_path']),
                             _name)
         zshfile = open(path, 'w+')
