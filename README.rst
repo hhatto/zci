@@ -1,7 +1,7 @@
 Installation
 ------------
 
-    pip install git+https://github.com/hhatto/zci
+    pip install --upgrade -e git+https://github.com/hhatto/zci#egg=zci
 
 Usage
 -----
