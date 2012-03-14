@@ -5,13 +5,12 @@ try:
     from setuptools import setup
 except ImportError:
     from distutils.core import setup
-import zci
 
 setup(
     name='zci',
-    version=zci.__version__,
+    version='0.0.1',
     description="Zsh Completion function Installer",
-    #long_description=open("README.rst").read(),
+    long_description=open("README.rst").read(),
     license='MIT',
     author='Hideo Hattori',
     author_email='hhatto.jp@gmail.com',

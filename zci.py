@@ -6,8 +6,6 @@ from StringIO import StringIO
 import requests
 import yaml
 
-__version__ = '0.0.1'
-
 
 PKGLIST_URL = "https://raw.github.com/hhatto/zci/master/package.yaml"
 DEFAULTS = {'install_path': '~/.zsh/completion/'}
