@@ -23,7 +23,7 @@ pyres_manager: http://raw.github.com/hhatto/zsh_completions/master/_pyres_manage
 pyres_scheduler: http://raw.github.com/hhatto/zsh_completions/master/_pyres_scheduler
 pyres_web: http://raw.github.com/hhatto/zsh_completions/master/_pyres_web
 pyres_worker: http://raw.github.com/hhatto/zsh_completions/master/_pyres_worker
-setup.py: http://raw.github.com/hhatto/zsh_completions/master/_setup.py
+setup.py: http://raw.github.com/hhatto/zsh_completions/master/src/_setup.py
 supervisorctl: http://raw.github.com/hhatto/zsh_completions/master/_supervisorctl
 supervisord: http://raw.github.com/hhatto/zsh_completions/master/_supervisord
 ack: https://raw.github.com/zsh-users/zsh-completions/master/_ack
